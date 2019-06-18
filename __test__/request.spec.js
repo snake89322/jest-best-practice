@@ -1,6 +1,6 @@
 import { request } from '../src/request'
 
-describe('sum function', () => {
+describe('request function', () => {
   it('request normal', async () => {
     expect.assertions(1);
     await expect(request('https://api.tvmaze.com/search/shows?q=batman')).resolves
