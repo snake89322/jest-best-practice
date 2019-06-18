@@ -45,6 +45,7 @@
   },
   "homepage": "https://github.com/snake89322/jest-best-practice#readme",
   "devDependencies": {
+    "@babel/plugin-transform-runtime": "^7.4.4",
     "@babel/preset-env": "^7.4.5",
     "@commitlint/cli": "^8.0.0",
     "husky": "^2.4.1",
