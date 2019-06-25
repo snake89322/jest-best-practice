@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`discount function Rule 1 1`] = `
+<Fragment>
+  <h1
+    className="newDiscount"
+  >
+    newDiscount
+  </h1>
+  <h1
+    className="vipDiscount"
+  >
+    vipDiscount
+  </h1>
+  <span
+    className="discount"
+  >
+    60
+  </span>
+</Fragment>
+`;
+
+exports[`discount function Rule 2 1`] = `
+<Fragment>
+  <h1
+    className="newDiscount"
+  >
+    newDiscount
+  </h1>
+  <span
+    className="discount"
+  >
+    40
+  </span>
+</Fragment>
+`;
+
+exports[`discount function Rule 3 1`] = `
+<Fragment>
+  <h1
+    className="vipDiscount"
+  >
+    vipDiscount
+  </h1>
+  <span
+    className="discount"
+  >
+    20
+  </span>
+</Fragment>
+`;
+
+exports[`discount function Rule 4 1`] = `
+<Fragment>
+  <span
+    className="discount"
+  >
+    0
+  </span>
+</Fragment>
+`;
