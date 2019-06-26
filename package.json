@@ -9,7 +9,8 @@
   },
   "standard": {
     "ignore": [
-      "__test__/"
+      "__test__/",
+      "__mocks__/"
     ],
     "parser": "babel-eslint"
   },
